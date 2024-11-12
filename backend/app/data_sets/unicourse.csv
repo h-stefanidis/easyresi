@@ -1,0 +1,724 @@
+course,sector,uni,state,course_type,duration,fee,uni_rank
+Bachelor of Accounting,Business,La Trobe,VIC,Undergraduate,3,117000,17
+Bachelor of Business,Business,La Trobe,VIC,Undergraduate,3,117600,17
+Bachelor of Commerce,Business,La Trobe,VIC,Undergraduate,3,126000,17
+Master of Business Administration,Business,La Trobe,VIC,Postgraduate,2,74000,17
+Master of Logistics And Supply Chain Management,Business,La Trobe,VIC,Postgraduate,2,86000,17
+Master of Marketing,Business,La Trobe,VIC,Postgraduate,2,86000,17
+Bachelor of Computer Science,IT,La Trobe,VIC,Undergraduate,3,118800,17
+Bachelor of Cybersecurity,IT,La Trobe,VIC,Undergraduate,3,118800,17
+Bachelor of Information Technology,IT,La Trobe,VIC,Undergraduate,3,118800,17
+Master of Artificial Intelligence,IT,La Trobe,VIC,Postgraduate,2,82000,17
+Master of Data Science,IT,La Trobe,VIC,Postgraduate,2,82000,17
+Master of Information Technology,IT,La Trobe,VIC,Postgraduate,2,82000,17
+Master of Quantum Information Technology,IT,La Trobe,VIC,Postgraduate,2,82000,17
+Bachelor of Civil Engineering (honours),Engineering,La Trobe,VIC,Undergraduate,4,162400,17
+Bachelor of Engineering Honours (industrial),Engineering,La Trobe,VIC,Undergraduate,4,162400,17
+Master of Civil Engineering,Engineering,La Trobe,VIC,Postgraduate,2,86000,17
+Master of Construction And Engineering Management,Engineering,La Trobe,VIC,Postgraduate,2,86000,17
+Master of Engineering,Engineering,La Trobe,VIC,Postgraduate,2,86000,17
+Master of Engineering Management,Engineering,La Trobe,VIC,Postgraduate,2,86000,17
+Master of Manufacturing Engineer,Engineering,La Trobe,VIC,Postgraduate,2,86000,17
+Bachelor of Biomedicine,Health,La Trobe,VIC,Undergraduate,4,169600,17
+Bachelor of Dental Science (honours),Health,La Trobe,VIC,Undergraduate,5,210000,17
+Bachelor of Food And Nutrition,Health,La Trobe,VIC,Undergraduate,3,121200,17
+Bachelor of Health Sciences,Health,La Trobe,VIC,Undergraduate,3,116400,17
+Bachelor of Nursing,Health,La Trobe,VIC,Undergraduate,3,126600,17
+Bachelor of Physiotherapy (honours),Health,La Trobe,VIC,Undergraduate,4,222000,17
+Bachelor of Psychological Science,Health,La Trobe,VIC,Undergraduate,3,120000,17
+Bachelor of Social Work (honours),Health,La Trobe,VIC,Undergraduate,4,140000,17
+Bachelor of Sport And Exercise Science,Health,La Trobe,VIC,Undergraduate,3,121200,17
+"Master of Counselling, Rehabilitation And Mental Health",Health,La Trobe,VIC,Postgraduate,2,82000,17
+Master of Digital Health,Health,La Trobe,VIC,Postgraduate,2,74800,17
+Master of Health Administration,Health,La Trobe,VIC,Postgraduate,2,80000,17
+Master of Nursing,Health,La Trobe,VIC,Postgraduate,2,74800,17
+Master of Strength And Conditioning,Health,La Trobe,VIC,Postgraduate,1.5,67800,17
+Master of Public Health,Health,La Trobe,VIC,Postgraduate,2,79600,17
+Bachelor of Accounting,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Actuarial Studies,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Business Administration,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Commerce,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Economics,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Finance,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of International Business,Business,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Statistics,Business,Australian National University,ACT,Undergraduate,3,160110,9
+"Bachelor of Finance, Economics, And Statistics (honours)",Business,Australian National University,ACT,Undergraduate,4,213480,9
+Master of Accounting,Business,Australian National University,ACT,Postgraduate,2,106750,9
+Master of Actuarial Practice,Business,Australian National University,ACT,Postgraduate,2.5,133425,9
+Master of Actuarial Studies,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Applied Accounting,Business,Australian National University,ACT,Postgraduate,1,53370,9
+Master of Business Administration (mba),Business,Australian National University,ACT,Postgraduate,1.5,74055,9
+Master of Commerce (advanced),Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Economics,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Entrepreneurship And Innovation,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Finance,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Financial Economics,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Financial Management,Business,Australian National University,ACT,Postgraduate,1,53370,9
+Master of International Management,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Management,Business,Australian National University,ACT,Postgraduate,1,53370,9
+Master of Management (advanced),Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Marketing Management,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Professional Accounting,Business,Australian National University,ACT,Postgraduate,1.5,80055,9
+Master of Project Management,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Master of Statistical Data Analysis,Business,Australian National University,ACT,Postgraduate,1,53370,9
+Master of Statistics,Business,Australian National University,ACT,Postgraduate,2,106740,9
+Bachelor of Advanced Computing (honours),IT,Australian National University,ACT,Undergraduate,4,213480,9
+Bachelor of Computing,IT,Australian National University,ACT,Undergraduate,3,160110,9
+Bachelor of Engineering (honours),Engineering,Australian National University,ACT,Undergraduate,4,213480,9
+Master of Computing,IT,Australian National University,ACT,Undergraduate,2,106740,9
+Bachelor of Health Science,Health,Australian National University,ACT,Undergraduate,3,160110,9
+"Master of Culture, Health And Medicine",Health,Australian National University,ACT,Undergraduate,2,101000,9
+Master of Public Health,Health,Australian National University,ACT,Undergraduate,2,101000,9
+Bachelor of Education,Education,La Trobe,VIC,Undergraduate,4,140000,17
+Master of Education,Education,La Trobe,VIC,Postgraduate,2,71600,17
+Bachelor of Accounting,Business,University of Canberra,ACT,Undergraduate,3,113700,35
+Bachelor of Commerce (accounting And Finance),Business,University of Canberra,ACT,Undergraduate,3,107400,35
+Master of Business Administration,Business,University of Canberra,ACT,Postgraduate,1.5,61350,35
+Master of Professional Accounting,Business,University of Canberra,ACT,Postgraduate,2,79800,35
+Bachelor of Software Engineering,IT,University of Canberra,ACT,Undergraduate,3,104400,35
+Master of Engineering,IT,University of Canberra,ACT,Postgraduate,2,78600,35
+Master of Information Technology,IT,University of Canberra,ACT,Postgraduate,1.5,58950,35
+Bachelor of Health Science,Health,University of Canberra,ACT,Undergraduate,3,108300,35
+Bachelor of Nursing,Health,University of Canberra,ACT,Undergraduate,3,108300,35
+Master of Public Health,IT,University of Canberra,ACT,Postgraduate,1.5,53850,35
+Bachelor of Early Childhood And Primary Education,Education,University of Canberra,ACT,Undergraduate,4,128800,35
+Bachelor of Primary Education,Education,University of Canberra,ACT,Undergraduate,4,128800,35
+Bachelor of Secondary Education (science),Education,University of Canberra,ACT,Undergraduate,4,128800,35
+Master of Primary Teaching,Education,University of Canberra,ACT,Postgraduate,2,64400,35
+Master of Secondary Teaching,Education,University of Canberra,ACT,Postgraduate,2,64400,35
+Bachelor of Accounting And Finance,Business,Australian Catholic University,VIC,Undergraduate,3,91224,28
+Bachelor of Commerce,Business,Australian Catholic University,VIC,Undergraduate,3,91224,28
+Bachelor of Business Administration,Business,Australian Catholic University,VIC,Undergraduate,3,91224,28
+Master of Business Administration,Business,Australian Catholic University,NSW,Postgraduate,2,66256,28
+Master of Professional Accounting,Business,Australian Catholic University,NSW,Postgraduate,2,66256,28
+Bachelor of Information Technology,IT,Australian Catholic University,NSW,Undergraduate,3,91224,28
+Master of Information Technology,IT,Australian Catholic University,NSW,Postgraduate,2,66256,28
+Bachelor of Biomedical Science,Health,Australian Catholic University,VIC,Undergraduate,3,80976,28
+Bachelor of Nursing,Health,Australian Catholic University,VIC,Undergraduate,3,98208,28
+Bachelor of Nutrition Science,Health,Australian Catholic University,NSW,Undergraduate,3,80976,28
+Bachelor of Social Work,Health,Australian Catholic University,NSW,Undergraduate,4,107968,28
+Bachelor of Early Childhood Education (birth To Five Years),Education,Australian Catholic University,VIC,Undergraduate,4,114912,28
+Bachelor of Education,Education,Australian Catholic University,NSW,Undergraduate,4,114912,28
+Master of Teaching,Education,Australian Catholic University,NSW,Postgraduate,2,57456,28
+Bachelor of Business Administration,Business,University of Notre Dame,NSW,Undergraduate,3,93150,41
+Bachelor of Commerce,Business,University of Notre Dame,NSW,Undergraduate,3,93150,41
+Bachelor of Marketing And Public Relations,Business,University of Notre Dame,NSW,Undergraduate,3,93150,41
+Master of Business Administration,Business,University of Notre Dame,NSW,Postgraduate,2,66260,41
+Bachelor of Education,Education,University of Notre Dame,WA,Undergraduate,4,130400,41
+Bachelor of Health & Physical Education,Education,University of Notre Dame,WA,Undergraduate,4,130400,41
+Bachelor of Primary Education,Education,University of Notre Dame,NSW,Undergraduate,4,130400,41
+Bachelor of Secondary Education,Education,University of Notre Dame,NSW,Undergraduate,4,130400,41
+Master of Teaching,Education,University of Notre Dame,NSW,Postgraduate,2,70204,41
+Bachelor of Biomedical Science,Health,University of Notre Dame,NSW,Undergraduate,3,106665,41
+Bachelor of Nursing,Health,University of Notre Dame,NSW,Undergraduate,3,106665,41
+Bachelor of Computer Science,IT,University of Notre Dame,NSW,Undergraduate,3,119829,41
+Master of Computer Science,IT,University of Notre Dame,NSW,Postgraduate,2,88762,41
+Bachelor of Accounting,Business,Charles Sturt University,NSW,Undergraduate,3,89040,30
+Bachelor of Business,Business,Charles Sturt University,NSW,Undergraduate,3,92160,30
+Master of Applied Business,Business,Charles Sturt University,NSW,Postgraduate,2,66880,30
+Master of Professional Accounting,Business,Charles Sturt University,NSW,Postgraduate,2,66880,30
+Bachelor of Computer Science,IT,Charles Sturt University,NSW,Undergraduate,3,85920,30
+Bachelor of Information Technology,IT,Charles Sturt University,NSW,Undergraduate,3,93600,30
+Master of Professional Information Technology,IT,Charles Sturt University,NSW,Postgraduate,2,67840,30
+Bachelor of Education,Education,Charles Sturt University,NSW,Undergraduate,4,109120,30
+Bachelor of Educational Studies,Education,Charles Sturt University,NSW,Undergraduate,3,77520,30
+Bachelor of Dental Science,Health,Charles Sturt University,NSW,Undergraduate,5,348800,30
+Bachelor of Nursing,Health,Charles Sturt University,NSW,Undergraduate,3,100320,30
+Bachelor of Pharmacy,Health,Charles Sturt University,NSW,Undergraduate,4,145920,30
+Bachelor of Commerce,Business,Macquarie University,NSW,Undergraduate,3,135300,15
+Bachelor of Professional Accounting,Business,Macquarie University,NSW,Undergraduate,3,135300,15
+Master of Accounting,Business,Macquarie University,NSW,Postgraduate,2,90200,15
+Master of Commerce,Business,Macquarie University,NSW,Postgraduate,2,90200,15
+Master of Professional Accounting,Business,Macquarie University,NSW,Postgraduate,2,90200,15
+Master of Business Administration,Business,Macquarie University,NSW,Postgraduate,2,93000,15
+Bachelor of Economics,Business,Macquarie University,NSW,Undergraduate,3,135300,15
+Bachelor of Education,Education,Macquarie University,NSW,Undergraduate,4,155200,15
+Master of Early Childhood,Education,Macquarie University,NSW,Postgraduate,1.5,56100,15
+Master of Teaching,Education,Macquarie University,NSW,Postgraduate,2,74800,15
+Master of Education,Education,Macquarie University,NSW,Postgraduate,1.5,56100,15
+Bachelor of Engineering (honours),Engineering,Macquarie University,NSW,Undergraduate,4,180400,15
+Master of Engineering,Engineering,Macquarie University,NSW,Postgraduate,2,90200,15
+Bachelor of Medical Sciences,Health,Macquarie University,NSW,Undergraduate,3,131400,15
+Doctor of Medicine,Health,Macquarie University,NSW,Postgraduate,4,358400,15
+Master of Public Health,Health,Macquarie University,NSW,Postgraduate,2,82400,15
+Bachelor of Information Technology,IT,Macquarie University,NSW,Undergraduate,3,133500,15
+Master of Data Science,IT,Macquarie University,NSW,Postgraduate,2,89000,15
+Master of Information Technology,IT,Macquarie University,NSW,Postgraduate,2,89000,15
+Bachelor of Cyber Security,IT,Macquarie University,NSW,Undergraduate,3,133500,15
+Bachelor of Business,Business,Southern Cross University,NSW,Undergraduate,3,98880,38
+Master of Professional Accounting,Business,Southern Cross University,NSW,Postgraduate,2,72640,38
+Bachelor of Business In Hotel Management,Business,Southern Cross University,NSW,Undergraduate,3,95592,38
+Bachelor of Nursing,Health,Southern Cross University,NSW,Undergraduate,2,65040,38
+Bachelor of Midwifery,Health,Southern Cross University,NSW,Undergraduate,3,97560,38
+Bachelor of Biomedical Science,Health,Southern Cross University,NSW,Undergraduate,3,97560,38
+Master of Nursing,Health,Southern Cross University,NSW,Postgraduate,2,67600,38
+Master of Business Administration,Business,Southern Cross University,NSW,Postgraduate,2,67600,38
+Bachelor of Engineering Systems (honours),Engineering,Southern Cross University,NSW,Undergraduate,4,152000,38
+Bachelor of Information Technology,IT,Southern Cross University,NSW,Undergraduate,3,98880,38
+Master of Computing,IT,Southern Cross University,NSW,Postgraduate,2,73040,38
+Master of Information Technology,IT,Southern Cross University,NSW,Postgraduate,2,72640,38
+Master of Teaching,Education,Southern Cross University,NSW,Postgraduate,2,62000,38
+Bachelor of Accounting,Business,University of New England,NSW,Undergraduate,3,90600,39
+Bachelor of Agribusiness,Business,University of New England,NSW,Undergraduate,3,90600,39
+Bachelor of Business,Business,University of New England,NSW,Undergraduate,3,90600,39
+Master of Professional Accounting,Business,University of New England,NSW,Postgraduate,2,64508,39
+Bachelor of Education,Education,University of New England,NSW,Undergraduate,4,115048,39
+Bachelor of Educational Studies,Education,University of New England,NSW,Undergraduate,3,86286,39
+Master of Education,Education,University of New England,NSW,Postgraduate,1.5,43143,39
+Master of Teaching,Education,University of New England,NSW,Postgraduate,2,57524,39
+Bachelor of Biomedical Science,Health,University of New England,NSW,Undergraduate,3,101487,39
+Bachelor of Nursing,Health,University of New England,NSW,Undergraduate,3,96762,39
+Bachelor of Science,Health,University of New England,NSW,Undergraduate,3,101487,39
+Bachelor of Social Work,Health,University of New England,NSW,Undergraduate,4,120800,39
+Master of Neuroscience,Health,University of New England,NSW,Postgraduate,2,72452,39
+Master of Public Health,Health,University of New England,NSW,Postgraduate,1,31432,39
+Master of Social Work,Health,University of New England,NSW,Postgraduate,2,62864,39
+Bachelor of Computer Science,IT,University of New England,NSW,Undergraduate,3,101487,39
+Bachelor of Information Technology,IT,University of New England,NSW,Undergraduate,3,96762,39
+Bachelor of Science,IT,University of New England,NSW,Undergraduate,3,101487,39
+Master of Artificial Intelligence,IT,University of New England,NSW,Postgraduate,2,67558,39
+Master of Computer Science,IT,University of New England,NSW,Postgraduate,2,67558,39
+Master of Cybersecurity,IT,University of New England,NSW,Postgraduate,1,33829,39
+Master of Data Science,IT,University of New England,NSW,Postgraduate,1.5,50744,39
+Master of Information Technology,IT,University of New England,NSW,Postgraduate,1.5,50744,39
+Bachelor of Business,Business,University of Newcastle,NSW,Undergraduate,3,106995,18
+Bachelor of Business Analytics,Business,University of Newcastle,NSW,Undergraduate,3,109275,18
+Bachelor of Commerce,Business,University of Newcastle,NSW,Undergraduate,3,107115,18
+Master of Applied Finance,Business,University of Newcastle,NSW,Postgraduate,1.5,61815,18
+Master of Professional Accounting,Business,University of Newcastle,NSW,Postgraduate,1.5,52118,18
+Master of Business Administration (mba),Business,University of Newcastle,NSW,Postgraduate,1.5,62415,18
+Bachelor of Computer Science,IT,University of Newcastle,NSW,Undergraduate,3,118410,18
+Bachelor of Data Science,IT,University of Newcastle,NSW,Undergraduate,3,114555,18
+Bachelor of Information Technology,IT,University of Newcastle,NSW,Undergraduate,3,117960,18
+Bachelor of Mathematics,IT,University of Newcastle,NSW,Undergraduate,3,121665,18
+Master of Cybersecurity,IT,University of Newcastle,NSW,Postgraduate,2,87480,18
+Master of Data Science,IT,University of Newcastle,NSW,Postgraduate,1.5,62430,18
+Master of Information Technology,IT,University of Newcastle,NSW,Postgraduate,2,86990,18
+Bachelor of Education,Education,University of Newcastle,NSW,Undergraduate,3,147920,18
+Master of Education,Education,University of Newcastle,NSW,Postgraduate,1,37000,18
+Bachelor of Chemical Engineering,Engineering,University of Newcastle,NSW,Undergraduate,4,167640,18
+Bachelor of Civil Engineering (honours),Engineering,University of Newcastle,NSW,Undergraduate,4,167820,18
+Bachelor of Computer Systems Engineering,Engineering,University of Newcastle,NSW,Undergraduate,4,164200,18
+Bachelor of Electrical And Electronic Engineering (honours),Engineering,University of Newcastle,NSW,Undergraduate,4,167380,18
+Bachelor of Chemical Engineering,Engineering,University of Newcastle,NSW,Undergraduate,4,166680,18
+Bachelor of Software Engineering,Engineering,University of New England,NSW,Undergraduate,4,160140,39
+Bachelor of Professional Engineering,Engineering,University of New England,NSW,Postgraduate,2,91020,39
+Bachelor of Nursing,Health,University of New England,NSW,Undergraduate,3,119175,39
+Bachelor of Biomedical Science,Health,University of New England,NSW,Undergraduate,3,129570,39
+Bachelor of Pharmacy (honours),Health,University of New England,NSW,Undergraduate,4,176820,39
+Master of Nursing,Health,University of New England,NSW,Postgraduate,1,42550,39
+Master of Public Health,Health,University of New England,NSW,Postgraduate,1,38895,39
+Bachelor of Commerce,Business,University of Sydney,NSW,Undergraduate,3,156000,2
+Master of Commerce,Business,University of Sydney,NSW,Postgraduate,1.5,84750,2
+Master of Human Resource Management And Industrial Relations,Business,University of Sydney,NSW,Postgraduate,1.5,84750,2
+Bachelor of Education,Education,University of Sydney,NSW,Undergraduate,4,224000,2
+Bachelor of Social Work,Health,University of Sydney,NSW,Undergraduate,4,208000,2
+Master of Teaching,Education,University of Sydney,NSW,Postgraduate,2,99000,2
+Master of Social Work,Health,University of Sydney,NSW,Postgraduate,2,99000,2
+Bachelor of Advanced Computing,IT,University of Sydney,NSW,Undergraduate,4,224000,2
+Bachelor of Engineering (honours),Engineering,University of Sydney,NSW,Undergraduate,4,224000,2
+Master of Professional Engineering,Engineering,University of Sydney,NSW,Postgraduate,3,159000,2
+Bachelor of Oral Health,Health,University of Sydney,NSW,Undergraduate,3,168000,2
+Bachelor of Science,Health,University of Sydney,NSW,Undergraduate,3,168000,2
+Bachelor of Nursing,Health,University of Sydney,NSW,Undergraduate,3,136500,2
+Master of Advanced Nursing Practice,Health,University of Sydney,NSW,Postgraduate,1.5,70500,2
+Master of Global Health,Health,University of Sydney,NSW,Postgraduate,1.5,84750,2
+Bachelor of Business,Business,University of Technology Sydney,NSW,Undergraduate,3,134784,6
+Master of Business Administration,Business,University of Technology Sydney,NSW,Postgraduate,2,96192,6
+Master of Financial Analysis,Business,University of Technology Sydney,NSW,Postgraduate,2,72144,6
+Master of Professional Accounting,Business,University of Technology Sydney,NSW,Postgraduate,1.5,72144,6
+Bachelor of Economics,Business,University of Technology Sydney,NSW,Undergraduate,3,134784,6
+Bachelor of Education Futures,Education,University of Technology Sydney,NSW,Undergraduate,3,93168,6
+Master of Data Science And Innovation,IT,University of Technology Sydney,NSW,Postgraduate,2,92928,6
+Bachelor of Engineering (honours),Engineering,University of Technology Sydney,NSW,Undergraduate,4,216612,6
+Master of Artificial Intelligence,IT,University of Technology Sydney,NSW,Postgraduate,2,101952,6
+Master of Cybersecurity,IT,University of Technology Sydney,NSW,Postgraduate,1.5,78768,6
+Master of Engineering,Engineering,University of Technology Sydney,NSW,Postgraduate,1,69696,6
+Master of Information Technology,IT,University of Technology Sydney,NSW,Postgraduate,2,101952,6
+Bachelor of Public Health,Health,University of Technology Sydney,NSW,Undergraduate,3,114880,6
+Bachelor of Nursing,Health,University of Technology Sydney,NSW,Undergraduate,3,134784,6
+Bachelor of Computing Science,IT,University of Technology Sydney,NSW,Undergraduate,4,201600,6
+Bachelor of Artificial Intelligence,IT,University of Technology Sydney,NSW,Undergraduate,3,151200,6
+Bachelor of Cyber Security,IT,University of Technology Sydney,NSW,Undergraduate,3,151200,6
+Bachelor of Business,Business,University of Wollongong,NSW,Undergraduate,3,97344,16
+Bachelor of Professional Accounting,Business,University of Wollongong,NSW,Undergraduate,3,97344,16
+Master of Business Administration,Business,University of Wollongong,NSW,Postgraduate,1.5,61416,16
+Master of Business,Business,University of Wollongong,NSW,Postgraduate,1.5,50544,16
+Bachelor of Computer Science,IT,University of Wollongong,NSW,Undergraduate,3,110016,16
+Bachelor of Business Information Systems,IT,University of Wollongong,NSW,Undergraduate,3,110016,16
+Bachelor of Information Technology,IT,University of Wollongong,NSW,Undergraduate,3,110016,16
+Master of Information Technology,IT,University of Wollongong,NSW,Postgraduate,2,73248,16
+Master of Computer Science,IT,University of Wollongong,NSW,Postgraduate,2,74400,16
+Bachelor of Education,Education,University of Wollongong,NSW,Undergraduate,4,122112,16
+Master of Teaching,Education,University of Wollongong,NSW,Postgraduate,2,44928,16
+Bachelor of Engineering (honours),Engineering,University of Wollongong,NSW,Undergraduate,4,161088,16
+Master of Engineering (honours),Engineering,University of Wollongong,NSW,Postgraduate,2,80544,16
+Bachelor of Nursing,Health,University of Wollongong,NSW,Undergraduate,3,100800,16
+Bachelor of Medical And Health Sciences,Health,University of Wollongong,NSW,Undergraduate,3,104688,16
+Bachelor of Economics,Business,University of New South Wales,NSW,Undergraduate,3,163500,3
+Bachelor of Actuarial Studies,Business,University of New South Wales,NSW,Undergraduate,3,166000,3
+Master of Commerce,Business,University of New South Wales,NSW,Postgraduate,2,87000,3
+Master of Finance,Business,University of New South Wales,NSW,Postgraduate,1,56000,3
+Master of Professional Accounting,Business,University of New South Wales,NSW,Postgraduate,2,87000,3
+Bachelor of Advanced Computer Science (honours),IT,University of New South Wales,NSW,Undergraduate,4,237500,3
+Bachelor of Data Science And Decisions,IT,University of New South Wales,NSW,Undergraduate,3,168500,3
+Bachelor of Science,IT,University of New South Wales,NSW,Undergraduate,3,172500,3
+Master of Data Science And Decisions,IT,University of New South Wales,NSW,Postgraduate,2,112500,3
+Master of Information Technology,IT,University of New South Wales,NSW,Postgraduate,2,112500,3
+Bachelor of Education (honours),Education,University of New South Wales,NSW,Undergraduate,4,201500,3
+Bachelor of Social Work,Health,University of New South Wales,NSW,Undergraduate,4,190500,3
+Master of Education,Education,University of New South Wales,NSW,Postgraduate,2,88000,3
+Master of Teaching,Education,University of New South Wales,NSW,Postgraduate,2,88000,3
+Bachelor of Engineering (honours),Engineering,University of New South Wales,NSW,Undergraduate,4,238000,3
+Master of Engineering,Engineering,University of New South Wales,NSW,Postgraduate,2,113000,3
+Bachelor of International Public Health,Health,University of New South Wales,NSW,Undergraduate,3,117000,3
+Bachelor of Medical Science,Health,University of New South Wales,NSW,Undergraduate,3,173500,3
+Master of Public Health,Health,University of New South Wales,NSW,Postgraduate,1,55000,3
+Master of Science In Health Data Science,Health,University of New South Wales,NSW,Postgraduate,1,72000,3
+Bachelor of Accounting,Business,Western Sydney University,NSW,Undergraduate,3,95784,22
+Master of Applied Finance,Business,Western Sydney University,NSW,Postgraduate,2,70032,22
+Bachelor of Business,Business,Western Sydney University,NSW,Undergraduate,3,95784,22
+Master of Business Administration,Business,Western Sydney University,NSW,Postgraduate,2,70032,22
+Master of Finance,Business,Western Sydney University,NSW,Postgraduate,1.5,50004,22
+Master of Professional Accounting,Business,Western Sydney University,NSW,Postgraduate,1.5,52524,22
+Master of Artificial Intelligence,Business,Western Sydney University,NSW,Postgraduate,2,71104,22
+Bachelor of Computer Science,IT,Western Sydney University,NSW,Undergraduate,3,102120,22
+Bachelor of Information Systems,IT,Western Sydney University,NSW,Undergraduate,3,102120,22
+Bachelor of Information And Communications Technology (ict),IT,Western Sydney University,NSW,Undergraduate,3,102120,22
+Master of Information And Communications Technology,IT,Western Sydney University,NSW,Postgraduate,2,73736,22
+Bachelor of Data Science,IT,Western Sydney University,NSW,Undergraduate,3,107160,22
+Master of Data Science,IT,Western Sydney University,NSW,Postgraduate,2,73376,22
+Bachelor of Engineering (honours),Engineering,Western Sydney University,NSW,Undergraduate,4,145696,22
+Master of Engineering,Engineering,Western Sydney University,NSW,Postgraduate,2,73376,22
+Bachelor of Health Science,Health,Western Sydney University,NSW,Undergraduate,3,92880,22
+Master of Heath Science,Health,Western Sydney University,NSW,Postgraduate,2,66320,22
+Master of Public Health,Health,Western Sydney University,NSW,Postgraduate,2,66320,22
+Bachelor of Nursing,Health,Western Sydney University,NSW,Undergraduate,3,69136,22
+Master of Nursing,Health,Western Sydney University,NSW,Postgraduate,3,51732,22
+Bachelor of Education,Education,Western Sydney University,NSW,Undergraduate,4,115712,22
+Master of Teaching,Education,Western Sydney University,NSW,Postgraduate,2,62432,22
+Bachelor of Accounting,Business,Charles Darwin University,NT,Undergraduate,3,85128,34
+Master of Professional Accounting,Business,Charles Darwin University,NT,Postgraduate,2,69440,34
+Bachelor of Business,Business,Charles Darwin University,NT,Undergraduate,3,85128,34
+Master of Business Administration Sustainable Leadership,Business,Charles Darwin University,NT,Postgraduate,2,69440,34
+Bachelor of Education,Education,Charles Darwin University,NT,Undergraduate,4,114304,34
+Master of Education,Education,Charles Darwin University,NT,Postgraduate,1.5,44676,34
+Bachelor of Engineering Science,Engineering,Charles Darwin University,NT,Undergraduate,3,105558,34
+Bachelor of Software Engineering Honours,Engineering,Charles Darwin University,NT,Undergraduate,4,140744,34
+Master of Engineering,Engineering,Charles Darwin University,NT,Postgraduate,2,74208,34
+Bachelor of Nursing,Health,Charles Darwin University,NT,Undergraduate,3,103728,34
+Bachelor of Public Health,Health,Charles Darwin University,NT,Undergraduate,3,97056,34
+Master of Public Health,Health,Charles Darwin University,NT,Postgraduate,1.5,47376,34
+Bachelor of Biomedical Science,Health,Charles Darwin University,NT,Undergraduate,3,99504,34
+Bachelor of Computer Science,IT,Charles Darwin University,NT,Undergraduate,3,95064,34
+Bachelor of Information Technology,IT,Charles Darwin University,NT,Undergraduate,3,95064,34
+Master of Data Science,IT,Charles Darwin University,NT,Postgraduate,2,63376,34
+Master of Information Technology,IT,Charles Darwin University,NT,Postgraduate,2,63376,34
+Bachelor of Business,Business,Bond University,QLD,Undergraduate,2,137520,40
+Bachelor of Commerce,Business,Bond University,QLD,Undergraduate,2,137520,40
+Master of Finance,Business,Bond University,QLD,Postgraduate,1.5,72720,40
+Master of Accounting,Business,Bond University,QLD,Postgraduate,1.5,72280,40
+Master of Financial Management,Business,Bond University,QLD,Postgraduate,1.5,72280,40
+Bachelor of Actuarial Science,Business,Bond University,QLD,Undergraduate,2,137520,40
+Bachelor of Business Data Analytics,Business,Bond University,QLD,Undergraduate,2,137520,40
+Master of Business Data Analytics,Business,Bond University,QLD,Postgraduate,1.5,73520,40
+Master of Actuarial Science,Business,Bond University,QLD,Postgraduate,1.5,73520,40
+Bachelor of Biomedical Science,Health,Bond University,QLD,Undergraduate,2,137520,40
+Bachelor of Health Science,Health,Bond University,QLD,Undergraduate,2,137520,40
+Bachelor of Accounting,Business,CQUniversity,QLD,Undergraduate,3,105120,42
+Bachelor of Business,Business,CQUniversity,QLD,Undergraduate,3,105120,42
+Master of Professional Accounting,Business,CQUniversity,QLD,Postgraduate,2,70080,42
+Master of Business Management,Business,CQUniversity,QLD,Postgraduate,2,68880,42
+Bachelor of Education,Business,CQUniversity,QLD,Undergraduate,4,123840,42
+Bachelor of Engineering (honours),Engineering,CQUniversity,QLD,Undergraduate,4,156480,42
+Master of Engineering,Engineering,CQUniversity,QLD,Postgraduate,2,76320,42
+Bachelor of Information Technology,IT,CQUniversity,QLD,Undergraduate,3,105120,42
+Master of Information Technology,IT,CQUniversity,QLD,Postgraduate,2,71040,42
+Bachelor of Nursing,Health,CQUniversity,QLD,Undergraduate,3,110610,42
+Master of Public Health,Health,CQUniversity,QLD,Postgraduate,2,68160,42
+Bachelor of Education,Education,CQUniversity,QLD,Undergraduate,4,123840,42
+Bachelor of Business,Business,Griffith University,QLD,Undergraduate,3,100500,12
+Master of Business,Business,Griffith University,QLD,Postgraduate,2,75000,12
+Master of Professional Accounting,Business,Griffith University,QLD,Undergraduate,2,74000,12
+Bachelor of Education,Education,Griffith University,QLD,Undergraduate,4,136000,12
+Master of Education,Education,Griffith University,QLD,Postgraduate,2,69000,12
+Bachelor of Computer Science,IT,Griffith University,QLD,Undergraduate,3,109500,12
+Bachelor of Cyber Security,IT,Griffith University,QLD,Undergraduate,3,111000,12
+Master of Information Technology,IT,Griffith University,QLD,Postgraduate,2,79000,12
+Bachelor of Engineering (honours),Engineering,Griffith University,QLD,Undergraduate,4,166000,12
+Bachelor of Biomedical Science,Health,Griffith University,QLD,Undergraduate,4,166000,12
+Bachelor of Nursing,Health,Griffith University,QLD,Undergraduate,3,114000,12
+Master of Professional Engineering,Engineering,Griffith University,QLD,Postgraduate,2,85000,12
+Bachelor of Business,Business,James Cook University,QLD,Undergraduate,3,103824,24
+Bachelor of Commerce,Business,James Cook University,QLD,Undergraduate,3,107472,24
+Master of Business Administration,Business,James Cook University,QLD,Postgraduate,2,76016,24
+Master of Professional Accounting,Business,James Cook University,QLD,Postgraduate,2,76016,24
+Master of Public Health,Health,James Cook University,QLD,Postgraduate,1.5,61860,24
+Bachelor of Information Technology,IT,James Cook University,QLD,Undergraduate,3,107472,24
+Master of Data Science,IT,James Cook University,QLD,Postgraduate,2,74496,24
+Master of Information Technology,IT,James Cook University,QLD,Postgraduate,2,76016,24
+Bachelor of Engineering (honours),Engineering,James Cook University,QLD,Undergraduate,4,164960,24
+Master of Engineering,Engineering,James Cook University,QLD,Postgraduate,2,82480,24
+Bachelor of Education,Education,James Cook University,QLD,Undergraduate,4,134560,24
+Bachelor of Business,Business,Queensland University of Technology,QLD,Undergraduate,3,101100,11
+Master of Business,Business,Queensland University of Technology,QLD,Postgraduate,2,79400,11
+Bachelor of Engineering (honours),Engineering,Queensland University of Technology,QLD,Undergraduate,4,182000,11
+Master of Professional Engineering,Engineering,Queensland University of Technology,QLD,Postgraduate,2,84200,11
+Master of Renewable Energy,Engineering,Queensland University of Technology,QLD,Postgraduate,1.5,71250,11
+Master of Robotics And Artifical Intelligence,Engineering,Queensland University of Technology,QLD,Postgraduate,1.5,69000,11
+Bachelor of Biomedical Science,Health,Queensland University of Technology,QLD,Undergraduate,3,156900,11
+Bachelor of Pharmacy (honours),Health,Queensland University of Technology,QLD,Undergraduate,4,170800,11
+Bachelor of Nursing,Health,Queensland University of Technology,QLD,Undergraduate,3,126900,11
+Master of Nursing,Health,Queensland University of Technology,QLD,Postgraduate,2,83800,11
+Bachelor of Public Health,Health,Queensland University of Technology,QLD,Undergraduate,3,117300,11
+Bachelor of Data Science,IT,Queensland University of Technology,QLD,Undergraduate,3,118500,11
+Bachelor of Information Technology,IT,Queensland University of Technology,QLD,Undergraduate,3,124200,11
+Master of Data Analytics,IT,Queensland University of Technology,QLD,Postgraduate,2,84600,11
+Master of Information Technology,IT,Queensland University of Technology,QLD,Postgraduate,2,85600,11
+Bachelor of Education,Education,Queensland University of Technology,QLD,Undergraduate,4,146000,11
+Master of Education,Education,Queensland University of Technology,QLD,Postgraduate,1.5,52200,11
+Bachelor of Advanced Business (honours),Business,The University of Queensland,QLD,Undergraduate,4,215040,5
+Bachelor of Commerce,Business,The University of Queensland,QLD,Undergraduate,3,151680,5
+Master of Commerce,Business,The University of Queensland,QLD,Postgraduate,2,107502,5
+Bachelor of Business Management,Business,The University of Queensland,QLD,Undergraduate,3,151680,5
+Master of Business,Business,The University of Queensland,QLD,Postgraduate,2,107502,5
+Master of Business Administration,Business,The University of Queensland,QLD,Postgraduate,1.5,95976,5
+Bachelor of Computer Science,IT,The University of Queensland,QLD,Undergraduate,3,161280,5
+Bachelor of Engineering,IT,The University of Queensland,QLD,Undergraduate,4,215040,5
+Bachelor of Information Technology,IT,The University of Queensland,QLD,Undergraduate,3,161280,5
+Master of Computer Science,IT,The University of Queensland,QLD,Postgraduate,1,53760,5
+Master of Computer Science,IT,The University of Queensland,QLD,Postgraduate,1,53760,5
+Master of Cybersecurity,IT,The University of Queensland,QLD,Postgraduate,2,107520,5
+Master of Data Science,IT,The University of Queensland,QLD,Postgraduate,2,107520,5
+Bachelor of Education,Education,The University of Queensland,QLD,Undergraduate,4,172800,5
+Master of Teaching,Education,The University of Queensland,QLD,Postgraduate,2,86400,5
+Bachelor of Biomedical Science,Health,The University of Queensland,QLD,Undergraduate,3,161280,5
+Master of Engineering,Engineering,The University of Queensland,QLD,Postgraduate,2,86400,5
+Bachelor of Health Science,Health,The University of Queensland,QLD,Undergraduate,3,141600,5
+Bachelor of Dental Science,Health,The University of Queensland,QLD,Undergraduate,5,439120,5
+Bachelor of Nursing,Health,The University of Queensland,QLD,Undergraduate,3,129600,5
+Bachelor of Science,Health,The University of Queensland,QLD,Undergraduate,3,151680,5
+Bachelor of Social Work,Health,The University of Queensland,QLD,Undergraduate,4,172800,5
+Master of Nursing Studies,Health,The University of Queensland,QLD,Postgraduate,2,86400,5
+Master of Public Health,Health,The University of Queensland,QLD,Postgraduate,2,94400,5
+Bachelor of Accounting,Business,University of Southern Queensland,QLD,Undergraduate,3,82200,33
+Bachelor of Business,Business,University of Southern Queensland,QLD,Undergraduate,3,82200,33
+Master of Business,Business,University of Southern Queensland,QLD,Postgraduate,2,64000,33
+Bachelor of Education,Education,University of Southern Queensland,QLD,Undergraduate,4,107360,33
+Bachelor of Engineering (honours),Engineering,University of Southern Queensland,QLD,Undergraduate,4,144000,33
+Master of Professional Engineering,Engineering,University of Southern Queensland,QLD,Postgraduate,2,71840,33
+Bachelor of Information Technology,IT,University of Southern Queensland,QLD,Undergraduate,3,90360,33
+Bachelor of Science,IT,University of Southern Queensland,QLD,Undergraduate,3,104440,33
+Master of Cybersecurity,IT,University of Southern Queensland,QLD,Postgraduate,2,64000,33
+Master of Data Science,IT,University of Southern Queensland,QLD,Postgraduate,2,60560,33
+Master of Information Technology,Business,University of Southern Queensland,QLD,Postgraduate,2,60560,33
+Bachelor of Biomedical Science,Health,University of Southern Queensland,QLD,Undergraduate,3,104440,33
+Bachelor of Nursing,Health,University of Southern Queensland,QLD,Undergraduate,3,97920,33
+Master of Public Health,Health,University of Southern Queensland,QLD,Postgraduate,2,61840,33
+Master of Science,IT,University of Southern Queensland,QLD,Postgraduate,2,75200,33
+Bachelor of Business,Business,University of the Sunshine Coast,QLD,Undergraduate,3,75000,36
+Bachelor of Commerce,Business,University of the Sunshine Coast,QLD,Undergraduate,3,75000,36
+Master of Business Administration,Business,University of the Sunshine Coast,QLD,Postgraduate,1.5,42000,36
+Bachelor of Education,Education,University of the Sunshine Coast,QLD,Undergraduate,4,100000,36
+Master of Teaching,Education,University of the Sunshine Coast,QLD,Postgraduate,2,56000,36
+Bachelor of Engineering,Engineering,University of the Sunshine Coast,QLD,Undergraduate,4,121200,36
+Bachelor of Biomedical Science,Health,University of the Sunshine Coast,QLD,Undergraduate,3,87000,36
+Bachelor of Health Science,Health,University of the Sunshine Coast,QLD,Undergraduate,3,78000,36
+Bachelor of Nursing Science,Health,University of the Sunshine Coast,QLD,Undergraduate,3.5,103600,36
+Bachelor of Information And Communications Technology (ict),IT,University of the Sunshine Coast,QLD,Undergraduate,3,75000,36
+Bachelor of Computer Science,IT,University of the Sunshine Coast,QLD,Undergraduate,3,85800,36
+Master of Information And Communications Technology (ict),IT,University of the Sunshine Coast,QLD,Postgraduate,2,56000,36
+Bachelor of Business,Business,University of Tasmania,TAS,Undergraduate,3,110755,21
+Master of Business Administration,Business,University of Tasmania,TAS,Postgraduate,2,65632,21
+Bachelor of Economics,Business,University of Tasmania,TAS,Undergraduate,3,109147,21
+Bachelor of Information And Communications Technology (ict),IT,University of Tasmania,TAS,Undergraduate,3,116542,21
+Master of Professional Accounting,Business,University of Tasmania,TAS,Postgraduate,2,73613,21
+Bachelor of Education,Education,University of Tasmania,TAS,Undergraduate,4,145924,21
+Master of Teaching,Education,University of Tasmania,TAS,Postgraduate,2,70453,21
+Bachelor of Social Work,Health,University of Tasmania,TAS,Undergraduate,4,150287,21
+Master of Social Work,Health,University of Tasmania,TAS,Postgraduate,2,76772,21
+Bachelor of Biomedicine,Health,University of Tasmania,TAS,Undergraduate,3,119757,21
+Bachelor of Nursing,Health,University of Tasmania,TAS,Undergraduate,3,119757,21
+Bachelor of Pharmacy,Health,University of Tasmania,TAS,Undergraduate,3,167737,21
+Bachelor of Engineering,Engineering,University of Tasmania,TAS,Undergraduate,4,176824,21
+Master of Professional Engineering,Engineering,University of Tasmania,TAS,Postgraduate,3,126187,21
+Master of Information Technology And Systems,IT,University of Tasmania,TAS,Postgraduate,2,79931,21
+Bachelor of Accounting,Business,Flinders University,SA,Undergraduate,3,109500,23
+Bachelor of Business,Business,Flinders University,SA,Undergraduate,3,109500,23
+Bachelor of Commerce,Business,Flinders University,SA,Undergraduate,3,109500,23
+Bachelor of Finance,Business,Flinders University,SA,Undergraduate,3,109500,23
+Master of Accounting,Business,Flinders University,SA,Postgraduate,2,78600,23
+Master of Business Administration,Business,Flinders University,SA,Postgraduate,2,82600,23
+Bachelor of Public Health,Health,Flinders University,SA,Undergraduate,3,103800,23
+Master of Public Health,Health,Flinders University,SA,Postgraduate,1.5,59100,23
+Bachelor of Health Sciences,Health,Flinders University,SA,Undergraduate,3,133500,23
+Bachelor of Education,Education,Flinders University,SA,Undergraduate,4,136000,23
+Master of Education,Education,Flinders University,SA,Postgraduate,2,72600,23
+Bachelor of Nursing,Health,Flinders University,SA,Undergraduate,3,126600,23
+Bachelor of Social Work,Health,Flinders University,SA,Undergraduate,4,138400,23
+Master of Social Work,Health,Flinders University,SA,Postgraduate,2,74400,23
+Bachelor of Engineering (honours),Engineering,Flinders University,SA,Undergraduate,4,180000,23
+Master of Engineering,Engineering,Flinders University,SA,Postgraduate,2,91000,23
+Bachelor of Computer Science,IT,Flinders University,SA,Undergraduate,3,124200,23
+Bachelor of Information Technology,IT,Flinders University,SA,Undergraduate,3,124500,23
+Master of Computer Science,IT,Flinders University,SA,Postgraduate,2,81800,23
+Master of Data Science,IT,Flinders University,SA,Postgraduate,2,81800,23
+Master of Information Technology,IT,Flinders University,SA,Postgraduate,2,81800,23
+Bachelor of Business,Business,The University of Adelaide,SA,Undergraduate,3,144300,8
+Bachelor of Commerce,Business,The University of Adelaide,SA,Undergraduate,3,149100,8
+Master of Accounting,Business,The University of Adelaide,SA,Postgraduate,2,99800,8
+Master of Finance,Business,The University of Adelaide,SA,Postgraduate,2,99800,8
+Bachelor of Economics,Business,The University of Adelaide,SA,Undergraduate,3,149100,8
+Master of Business Administration,Business,The University of Adelaide,SA,Postgraduate,1.5,74850,8
+Bachelor of Engineering (honours),Engineering,The University of Adelaide,SA,Undergraduate,4,209200,8
+Master of Engineering,Engineering,The University of Adelaide,SA,Postgraduate,2,91000,8
+Bachelor of Health And Medical Sciences,Health,The University of Adelaide,SA,Undergraduate,3,144300,8
+Bachelor of Nursing,Health,The University of Adelaide,SA,Undergraduate,3,133500,8
+Master of Nursing Science,Health,The University of Adelaide,SA,Postgraduate,2,84000,8
+Bachelor of Computer Science,IT,The University of Adelaide,SA,Undergraduate,3,152400,8
+Bachelor of Information Technology,IT,The University of Adelaide,SA,Undergraduate,3,148500,8
+Master of Computer Science,IT,The University of Adelaide,SA,Postgraduate,2,103000,8
+Master of Cybersecurity,IT,The University of Adelaide,SA,Postgraduate,2,104000,8
+Master of Data Science,IT,The University of Adelaide,SA,Postgraduate,2,104600,8
+Master of Education,Education,The University of Adelaide,SA,Postgraduate,2,82600,8
+Bachelor of Business,Business,University of South Australia,SA,Undergraduate,3,114900,19
+Bachelor of Accounting,Business,University of South Australia,SA,Undergraduate,3,114900,19
+Bachelor of Finance,Business,University of South Australia,SA,Undergraduate,3,114900,19
+Master of Professional Accounting,Business,University of South Australia,SA,Postgraduate,2,84000,19
+Master of Finance,Business,University of South Australia,SA,Postgraduate,2,84000,19
+Master of Business Administration,Business,University of South Australia,SA,Postgraduate,1.5,65700,19
+Bachelor of Early Childhood Education,Education,University of South Australia,SA,Undergraduate,4,131200,19
+Bachelor of Primary Education,Education,University of South Australia,SA,Undergraduate,4,131200,19
+Bachelor of Secondary Education,Education,University of South Australia,SA,Undergraduate,4,131200,19
+Master of Teaching,Education,University of South Australia,SA,Postgraduate,2,71200,19
+Master of Education,Education,University of South Australia,SA,Postgraduate,2,71200,19
+Bachelor of Engineering (honours),Engineering,University of South Australia,SA,Undergraduate,4,168000,19
+Master of Engineering,Engineering,University of South Australia,SA,Postgraduate,2,87400,19
+Bachelor of Health Science,Health,University of South Australia,SA,Undergraduate,3,81300,19
+Master of Health Services Management,Health,University of South Australia,SA,Postgraduate,2,65600,19
+Bachelor of Information Technology,IT,University of South Australia,SA,Undergraduate,3,118200,19
+Bachelor of Data Analytics,IT,University of South Australia,SA,Undergraduate,3,81300,19
+Master of Data Science,IT,University of South Australia,SA,Postgraduate,2,81800,19
+Master of Information Technology,IT,University of South Australia,SA,Postgraduate,2,78800,19
+Bachelor of Nursing,Health,University of South Australia,SA,Undergraduate,3,117000,19
+Master of Nursing,Health,University of South Australia,SA,Postgraduate,3,78000,19
+Bachelor of Commerce,Business,Deakin University,VIC,Undergraduate,3,132000,10
+Master of Professional Accounting,Business,Deakin University,VIC,Postgraduate,2,92400,10
+Master of Finance,Business,Deakin University,VIC,Postgraduate,2,92400,10
+Master of Commerce,Business,Deakin University,VIC,Postgraduate,2,92400,10
+Bachelor of Business,Business,Deakin University,VIC,Undergraduate,3,124800,10
+Bachelor of Business Analytics,Business,Deakin University,VIC,Undergraduate,3,127800,10
+Master of Business Administration,Business,Deakin University,VIC,Postgraduate,1.5,72900,10
+Master of Business Analytics,Business,Deakin University,VIC,Postgraduate,2,86000,10
+Bachelor of Computer Science,IT,Deakin University,VIC,Undergraduate,3,123000,10
+Bachelor of Data Science,IT,Deakin University,VIC,Undergraduate,3,123000,10
+Master of Data Science,IT,Deakin University,VIC,Postgraduate,2,86000,10
+Bachelor of Early Childhood Education,Education,Deakin University,VIC,Undergraduate,3,103500,10
+Bachelor of Education,Education,Deakin University,VIC,Undergraduate,4,141600,10
+Master of Teaching,Education,Deakin University,VIC,Postgraduate,2,72800,10
+Bachelor of Engineering (honours),Engineering,Deakin University,VIC,Undergraduate,4,175200,10
+Bachelor of Software Engineering (honours),Engineering,Deakin University,VIC,Undergraduate,4,164000,10
+Master of Engineering,Engineering,Deakin University,VIC,Postgraduate,2,90400,10
+Bachelor of Health Sciences,Health,Deakin University,VIC,Undergraduate,3,114000,10
+Bachelor of Social Work,Health,Deakin University,VIC,Undergraduate,4,145600,10
+Master of Public Health,Health,Deakin University,VIC,Postgraduate,2,83600,10
+Master of Applied Artificial Intelligence,IT,Deakin University,VIC,Postgraduate,2,86000,10
+Bachelor of Artificial Intelligence,IT,Deakin University,VIC,Undergraduate,3,123000,10
+Master of Cybersecurity,IT,Deakin University,VIC,Postgraduate,2,86000,10
+Master of Information Technology,IT,Deakin University,VIC,Postgraduate,2,86000,10
+Bachelor of Business,Business,Federation University Australia,VIC,Undergraduate,3,108000,37
+Bachelor of Education,Education,Federation University Australia,VIC,Undergraduate,3,86700,37
+Master of Teaching (early Childhood),Education,Federation University Australia,VIC,Postgraduate,2,62000,37
+Bachelor of Nursing,Health,Federation University Australia,VIC,Undergraduate,3,114000,37
+Master of Public Health,Health,Federation University Australia,VIC,Postgraduate,2,53000,37
+Bachelor of Engineering (honours),Engineering,Federation University Australia,VIC,Undergraduate,4,158000,37
+Master of Engineering,Engineering,Federation University Australia,VIC,Postgraduate,2,79000,37
+Bachelor of Information Technology,IT,Federation University Australia,VIC,Undergraduate,3,108000,37
+Master of Data Science,IT,Federation University Australia,VIC,Postgraduate,2,69000,37
+Master of Technology (software Engineering),IT,Federation University Australia,VIC,Postgraduate,2,69000,37
+Master of Applied Cyber Security,IT,Federation University Australia,VIC,Postgraduate,2,69000,37
+Bachelor of Physiotherapy,Health,Federation University Australia,VIC,Undergraduate,4,150000,37
+Master of Health,Health,Federation University Australia,VIC,Postgraduate,2,53000,37
+Bachelor of Occupational Therapy (honours),Health,Federation University Australia,VIC,Undergraduate,4,150000,37
+Bachelor of Accounting,Business,Monash University,VIC,Undergraduate,3,105000,4
+Bachelor of Actuarial Science,Business,Monash University,VIC,Undergraduate,3,105000,4
+Bachelor of Banking And Finance,Business,Monash University,VIC,Undergraduate,3,105000,4
+Bachelor of Business,Business,Monash University,VIC,Undergraduate,3,105000,4
+Bachelor of Finance,Business,Monash University,VIC,Undergraduate,3,105000,4
+Bachelor of Commerce,Business,Monash University,VIC,Undergraduate,3,105000,4
+Master of Accounting,Business,Monash University,VIC,Postgraduate,1.5,52500,4
+Master of Actuarial Science,Business,Monash University,VIC,Postgraduate,2,70000,4
+Master of Business,Business,Monash University,VIC,Postgraduate,2,70000,4
+Master of Commerce,Business,Monash University,VIC,Postgraduate,2,70000,4
+Bachelor of Education (honours),Education,Monash University,VIC,Undergraduate,4.25,128350,4
+Master of Education,Education,Monash University,VIC,Postgraduate,2,56200,4
+Master of Teaching,Education,Monash University,VIC,Postgraduate,2,57200,4
+Bachelor of Engineering (honours),Engineering,Monash University,VIC,Undergraduate,4,175600,4
+Master of Engineering,Engineering,Monash University,VIC,Postgraduate,1,44400,4
+Master of Advanced Engineering,Engineering,Monash University,VIC,Postgraduate,2,88800,4
+Bachelor of Computer Science,IT,Monash University,VIC,Undergraduate,3,116700,4
+Bachelor of Information Technology,IT,Monash University,VIC,Undergraduate,3,116700,4
+Master of Artificial Intelligence,IT,Monash University,VIC,Postgraduate,2,77800,4
+Master of Cybersecurity,IT,Monash University,VIC,Postgraduate,2,77800,4
+Master of Data Science,IT,Monash University,VIC,Postgraduate,2,77800,4
+Master of Information Technology,IT,Monash University,VIC,Postgraduate,2,77800,4
+Master of Public Health,Health,Monash University,VIC,Postgraduate,2,66000,4
+Bachelor of Accounting,Business,RMIT University,VIC,Undergraduate,3,126720,13
+Bachelor of Business,Business,RMIT University,VIC,Undergraduate,3,126720,13
+Master of Accounting,Business,RMIT University,VIC,Postgraduate,2,92160,13
+Bachelor of Commerce,Business,RMIT University,VIC,Undergraduate,3,126720,13
+Master of Commerce,Business,RMIT University,VIC,Postgraduate,2,92160,13
+Master of Business Administration,Business,RMIT University,VIC,Postgraduate,2,97920,13
+Master of Finance,Business,RMIT University,VIC,Postgraduate,2,92160,13
+Bachelor of Biomedical Science,Health,RMIT University,VIC,Undergraduate,3,132480,13
+Bachelor of Pharmaceutical Sciences,Health,RMIT University,VIC,Undergraduate,3,132480,13
+Bachelor of Pharmacy (honours),Health,RMIT University,VIC,Undergraduate,4,184320,13
+Master of Laboratory Medicine,Health,RMIT University,VIC,Postgraduate,2,92160,13
+Master of Education,Education,RMIT University,VIC,Postgraduate,2,65280,13
+Bachelor of Education,Education,RMIT University,VIC,Undergraduate,4,134400,13
+Master of Teaching Practice,Education,RMIT University,VIC,Postgraduate,2,69120,13
+Bachelor of Engineering,Engineering,RMIT University,VIC,Undergraduate,4,180480,13
+Bachelor of Nursing,Health,RMIT University,VIC,Undergraduate,3,120960,13
+Bachelor of Social Work (honours),Health,RMIT University,VIC,Undergraduate,4,142080,13
+Master of Social Work,Health,RMIT University,VIC,Postgraduate,2,74880,13
+Bachelor of Computer Science,IT,RMIT University,VIC,Undergraduate,3,120960,13
+Bachelor of Data Science,IT,RMIT University,VIC,Undergraduate,3,120960,13
+Master of Data Science,IT,RMIT University,VIC,Postgraduate,2,82560,13
+Bachelor of Information Technology,IT,RMIT University,VIC,Undergraduate,3,120960,13
+Master of Artificial Intelligence,IT,RMIT University,VIC,Postgraduate,2,82560,13
+Master of Information Technology,IT,RMIT University,VIC,Postgraduate,2,82560,13
+Bachelor of Accounting,Business,Swinburne University of Technology,VIC,Undergraduate,3,119820,20
+Bachelor of Business,Business,Swinburne University of Technology,VIC,Undergraduate,3,119820,20
+Master of Professional Accounting,Business,Swinburne University of Technology,VIC,Postgraduate,2,88680,20
+Master of Business Administration,Business,Swinburne University of Technology,VIC,Postgraduate,2,69800,20
+Master of Business Information Systems,IT,Swinburne University of Technology,VIC,Postgraduate,2,67600,20
+Bachelor of Data Science,IT,Swinburne University of Technology,VIC,Undergraduate,3,122220,20
+Master of Finance,Business,Swinburne University of Technology,VIC,Postgraduate,2,88680,20
+Bachelor of Education,Education,Swinburne University of Technology,VIC,Undergraduate,4,125360,20
+Bachelor of Education Studies,Education,Swinburne University of Technology,VIC,Undergraduate,3,103020,20
+Bachelor of Engineering (honours),Engineering,Swinburne University of Technology,VIC,Undergraduate,4,173360,20
+Master of Engineering Science,Engineering,Swinburne University of Technology,VIC,Postgraduate,2,88480,20
+Bachelor of Biomedical Science,Health,Swinburne University of Technology,VIC,Undergraduate,3,115020,20
+Bachelor of Health Science,Health,Swinburne University of Technology,VIC,Undergraduate,3,115020,20
+Bachelor of Nursing,Health,Swinburne University of Technology,VIC,Undergraduate,3,123720,20
+Bachelor of Computer Science,IT,Swinburne University of Technology,VIC,Undergraduate,3,116520,20
+Master of Cybersecurity,IT,Swinburne University of Technology,VIC,Postgraduate,2,82480,20
+Master of Data Science,IT,Swinburne University of Technology,VIC,Postgraduate,2,82480,20
+Master of Information Technology,IT,Swinburne University of Technology,VIC,Postgraduate,2,80480,20
+Bachelor of Commerce,Business,The University of Melbourne,VIC,Undergraduate,3,142292,1
+Master of Teaching,Education,The University of Melbourne,VIC,Postgraduate,2,88384,1
+Bachelor of Science,IT,The University of Melbourne,VIC,Undergraduate,3,145632,1
+Bachelor of Biomedicine,Health,The University of Melbourne,VIC,Undergraduate,3,150250,1
+Master of Management,Business,The University of Melbourne,VIC,Postgraduate,2,104896,1
+Master of Actuarial Science,Business,The University of Melbourne,VIC,Postgraduate,1.5,78768,1
+Master of Business Administration,Business,The University of Melbourne,VIC,Postgraduate,2,105650,1
+Master of Economics,Business,The University of Melbourne,VIC,Postgraduate,2,104896,1
+Master of Finance,Business,The University of Melbourne,VIC,Postgraduate,1.5,83136,1
+Master of Engineering,Engineering,The University of Melbourne,VIC,Postgraduate,3,158400,1
+Master of Public Health,Health,The University of Melbourne,VIC,Postgraduate,2,110976,1
+Master of Biomedical Science,Health,The University of Melbourne,VIC,Postgraduate,2,94848,1
+Master of Information Technology,IT,The University of Melbourne,VIC,Postgraduate,2,107584,1
+Master of Information Systems,IT,The University of Melbourne,VIC,Postgraduate,2,107584,1
+Master of Computer Science,IT,The University of Melbourne,VIC,Postgraduate,2,107584,1
+Master of Data Science,IT,The University of Melbourne,VIC,Postgraduate,2,104512,1
+Bachelor of Cyber Security,IT,Victoria University,VIC,Undergraduate,3,100200,27
+Master of Applied Information Technology,IT,Victoria University,VIC,Postgraduate,2,69200,27
+Master of Education,Education,Victoria University,VIC,Postgraduate,2,62000,27
+Bachelor of Education,Education,Victoria University,VIC,Undergraduate,4,124000,27
+Bachelor of Early Childhood Education,Education,Victoria University,VIC,Undergraduate,3,93000,27
+Master of Engineering,Engineering,Victoria University,VIC,Postgraduate,2,77600,27
+Bachelor of Engineering (honours),Engineering,Victoria University,VIC,Undergraduate,4,150400,27
+Bachelor of Social Work,Health,Victoria University,VIC,Undergraduate,4,124000,27
+Bachelor of Biomedical Science,Health,Victoria University,VIC,Undergraduate,3,107400,27
+Bachelor of Nursing,Health,Victoria University,VIC,Undergraduate,3,107400,27
+Bachelor of Biomedicine,Health,Victoria University,VIC,Undergraduate,3,112800,27
+Bachelor of Health Science,Health,Victoria University,VIC,Undergraduate,3,107400,27
+Bachelor of Commerce,Business,Curtin University,WA,Undergraduate,3,92934,13
+Bachelor of Business Administration,Business,Curtin University,WA,Undergraduate,3,92934,13
+Master of Commerce,Business,Curtin University,WA,Postgraduate,2,69340,13
+Master of Business Administration,Business,Curtin University,WA,Postgraduate,1.5,56607,13
+Master of Accounting,Business,Curtin University,WA,Postgraduate,1,33408,13
+Master of Professional Accounting,Business,Curtin University,WA,Postgraduate,2,66816,13
+Bachelor of Information Technology,IT,Curtin University,WA,Undergraduate,3,103566,13
+Bachelor of Computing,IT,Curtin University,WA,Undergraduate,3,103566,13
+Master of Computing,IT,Curtin University,WA,Postgraduate,2,67660,13
+Master of Information Systems And Technology,IT,Curtin University,WA,Postgraduate,1.5,47385,13
+Master of Cybersecurity,IT,Curtin University,WA,Postgraduate,1,32329,13
+Master of Artificial Intelligence,IT,Curtin University,WA,Postgraduate,1,32329,13
+Bachelor of Commerce,Business,Edith Cowan University,WA,Undergraduate,3,111900,25
+Master of Business Analytics,Business,Edith Cowan University,WA,Postgraduate,2,79800,25
+Master of Professional Accounting,Business,Edith Cowan University,WA,Postgraduate,2,77700,25
+Master of Business Administration,Business,Edith Cowan University,WA,Postgraduate,2,78100,25
+Master of Finance And Banking,Business,Edith Cowan University,WA,Postgraduate,2,77700,25
+Bachelor of Computer Science,IT,Edith Cowan University,WA,Undergraduate,3,126600,25
+Bachelor of Information Technology,IT,Edith Cowan University,WA,Undergraduate,3,126600,25
+Master of Computer Science,IT,Edith Cowan University,WA,Postgraduate,2,87300,25
+Bachelor of Science,IT,Edith Cowan University,WA,Undergraduate,3,126600,25
+Master of Cybersecurity,IT,Edith Cowan University,WA,Postgraduate,2,87300,25
+Bachelor of Biomedical Science,Health,Edith Cowan University,WA,Undergraduate,3,125250,25
+Master of Engineering,IT,Edith Cowan University,WA,Postgraduate,2,86500,25
+Master of Technology,IT,Edith Cowan University,WA,Postgraduate,2,86500,25
+Master of Nursing,Health,Edith Cowan University,WA,Postgraduate,2,83200,25
+Master of Advanced Nursing,Health,Edith Cowan University,WA,Postgraduate,2,85700,25
+Master of Education,Education,Edith Cowan University,WA,Postgraduate,1,37700,25
+Bachelor of Education,Education,Edith Cowan University,WA,Undergraduate,4,160800,25
+Master of Public Health,Health,Edith Cowan University,WA,Postgraduate,2,83400,25
+Master of Teaching,Education,Edith Cowan University,WA,Postgraduate,2,75400,25
+Bachelor of Social Work,Health,Edith Cowan University,WA,Undergraduate,4,158000,25
+Bachelor of Education,Education,Murdoch University,WA,Undergraduate,4,132000,26
+Master of Education,Education,Murdoch University,WA,Postgraduate,1.5,49500,26
+Master of Business Administration,Business,Murdoch University,WA,Postgraduate,1,53460,26
+Bachelor of Business,Business,Murdoch University,WA,Undergraduate,3,99000,26
+Bachelor of Information Technology And Business,IT,Murdoch University,WA,Undergraduate,3,99000,26
+Bachelor of Data Analytics,IT,Murdoch University,WA,Undergraduate,3,99000,26
+Master of Information Technology,IT,Murdoch University,WA,Postgraduate,2,66000,26
+Bachelor of Information Technology,IT,Murdoch University,WA,Undergraduate,3,99000,26
+Master of Science In Information Technology,IT,Murdoch University,WA,Undergraduate,1.5,49500,26
+Bachelor of Nursing,Health,Murdoch University,WA,Undergraduate,3,113760,26
+Bachelor of Engineering Technology,Engineering,Murdoch University,WA,Undergraduate,3,113040,26
+Bachelor of Business,Business,The University of Western Australia,WA,Undergraduate,3,144000,7
+Bachelor of Commerce,Business,The University of Western Australia,WA,Undergraduate,3,136500,7
+Bachelor of Economics,Business,The University of Western Australia,WA,Undergraduate,3,142800,7
+Master of Applied Finance,Business,The University of Western Australia,WA,Postgraduate,2,95600,7
+Master of Business Analytics,Business,The University of Western Australia,WA,Postgraduate,2,98000,7
+Master of Commerce,Business,The University of Western Australia,WA,Postgraduate,2,93800,7
+Master of Economics,Business,The University of Western Australia,WA,Postgraduate,2,97400,7
+Master of Professional Accounting,Business,The University of Western Australia,WA,Postgraduate,2,99800,7
+Bachelor of Science,Health,The University of Western Australia,WA,Undergraduate,3,147600,7
+Master of Data Science,IT,The University of Western Australia,WA,Postgraduate,2,98400,7
+Master of Information Technology,IT,The University of Western Australia,WA,Postgraduate,2,98400,7
+Master of Professional Engineering,Engineering,The University of Western Australia,WA,Postgraduate,3,141600,7
+Master of Education,Education,The University of Western Australia,WA,Postgraduate,1,35300,7
+Bachelor of Engineering (honours),Engineering,The University of Western Australia,WA,Undergraduate,4,203600,7
+Bachelor of Biomedical Science,Health,The University of Western Australia,WA,Undergraduate,3,138600,7
+Bachelor of Social Work (honours),Health,The University of Western Australia,WA,Undergraduate,4,169200,7
+Master of Biomedical Science,Health,The University of Western Australia,WA,Postgraduate,2,98000,7
+Master of Public Health,Health,The University of Western Australia,WA,Postgraduate,1.5,64350,7
+Master of Social Work,Health,The University of Western Australia,WA,Postgraduate,2,74400,7
+Bachelor of Social Work,Health,Australian Catholic University,ACT,Undergraduate,4,107968,28
+Bachelor of Business Administration,Business,University of Notre Dame,WA,Undergraduate,3,93150,41
+Bachelor of Commerce,Business,University of Notre Dame,WA,Undergraduate,3,93150,41
+Bachelor of Marketing And Public Relations,Business,University of Notre Dame,WA,Undergraduate,3,93150,41
+Master of Business Administration,Business,University of Notre Dame,WA,Postgraduate,2,66260,41
+Bachelor of Biomedical Science,Health,University of Notre Dame,WA,Undergraduate,3,106665,41
+Bachelor of Nursing,Health,University of Notre Dame,WA,Undergraduate,3,106665,41
+Bachelor of Computer Science,IT,University of Notre Dame,WA,Undergraduate,3,119829,41
+Master of Computer Science,IT,University of Notre Dame,WA,Postgraduate,2,88762,41
+Master of Business Administration,Business,Australian Catholic University,VIC,Postgraduate,2,66256,28
+Master of Professional Accounting,Business,Australian Catholic University,VIC,Postgraduate,2,66256,28
+Bachelor of Nutrition Science,Health,Australian Catholic University,VIC,Undergraduate,3,80976,28
+Bachelor of Education,Education,Australian Catholic University,VIC,Undergraduate,4,114912,28
+Master of Teaching,Education,Australian Catholic University,VIC,Postgraduate,2,57456,28
+Bachelor of Accounting And Finance,Business,Australian Catholic University,NSW,Undergraduate,3,91224,28
+Bachelor of Commerce,Business,Australian Catholic University,NSW,Undergraduate,3,91224,28
+Bachelor of Business Administration,Business,Australian Catholic University,NSW,Undergraduate,3,91224,28
+Bachelor of Biomedical Science,Health,Australian Catholic University,NSW,Undergraduate,3,80976,28
+Bachelor of Early Childhood Education (birth To Five Years),Education,Australian Catholic University,NSW,Undergraduate,4,114912,28
+Bachelor of Accounting And Finance,Business,Australian Catholic University,QLD,Undergraduate,3,91224,28
+Bachelor of Commerce,Business,Australian Catholic University,QLD,Undergraduate,3,91224,28
+Bachelor of Business Administration,Business,Australian Catholic University,QLD,Undergraduate,3,91224,28
+Bachelor of Biomedical Science,Health,Australian Catholic University,QLD,Undergraduate,3,80976,28
+Bachelor of Early Childhood Education (birth To Five Years),Education,Australian Catholic University,QLD,Undergraduate,4,114912,28
+Bachelor of Nursing,Health,Australian Catholic University,NSW,Undergraduate,3,98208,28
+Bachelor of Nursing,Health,Australian Catholic University,QLD,Undergraduate,3,98208,28
+Bachelor of Nursing,Health,Australian Catholic University,ACT,Undergraduate,3,98208,28

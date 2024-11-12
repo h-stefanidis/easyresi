@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore .venv directory
+.venv/
+venv/
+env/
+
+# Ignore Node.js modules
+node_modules/
+
+#Ignote Visual Studio elements
+.vs/
+
+#Any jupyter notebook cache
+
+.ipynb_checkpoints/
+*.ipynb
+.DS_Store
+test_data.csv

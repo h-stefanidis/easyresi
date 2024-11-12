@@ -1,0 +1,191 @@
+anzsco,occupation,nsw_shortage,vic_shortage,qld_shortage,sa_shortage,wa_shortage,tas_shortage,nt_shortage,act_shortage,sector
+221111,Accountant (General),-20,-20,-20,-20,-20,-20,30,-30,Business
+221112,Management Accountant,-20,-20,-20,-20,-20,-20,-20,-30,Business
+221113,Taxation Accountant,20,20,20,20,20,20,20,10,Business
+221211,Company Secretary,-30,-30,-30,-30,-30,-30,-30,-30,Business
+221212,Corporate Treasurer,-30,-30,-30,-30,-30,-30,-30,-30,Business
+221213,External Auditor,30,30,30,30,30,30,30,30,Business
+221214,Internal Auditor,30,30,30,30,30,30,30,30,Business
+222111,Commodities Trader,-30,-30,-30,-30,-30,-30,-30,-30,Business
+222112,Finance Broker,-20,-30,-30,-30,-30,-30,-30,-30,Business
+222113,Insurance Broker,20,20,20,20,20,20,20,30,Business
+222211,Financial Market Dealer,-30,-30,-30,-30,-30,-30,-30,-30,Business
+222212,Futures Trader,-30,-30,-30,-30,-30,-30,-30,-30,Business
+222213,Stockbroking Dealer,-30,-30,-30,-30,-30,-30,-30,-30,Business
+222311,Financial Investment Adviser,10,-30,10,10,20,10,10,10,Business
+222312,Financial Investment Manager,-20,-30,-30,-30,-20,-30,-30,-30,Business
+223111,Human Resource Adviser,-20,-30,-30,-30,-30,-30,30,-30,Business
+223112,Recruitment Consultant,10,10,10,10,10,10,10,10,Business
+223113,Workplace Relations Adviser,10,10,11,10,10,10,30,10,Business
+223311,Training and Development Professional,-30,-30,-30,-30,-30,-30,20,-10,Business
+224111,Actuary,10,10,10,-30,10,-30,-30,10,Business
+224112,Mathematician,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224114,Data Analyst,10,-30,-30,10,-30,-30,-30,-30,Business
+224115,Data Scientist,-30,-30,-30,-30,10,-30,-30,-30,Business
+224116,Statistician,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224211,Archivist,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224212,Gallery or Museum Curator,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224213,Health Information Manager,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224214,Records Manager,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224311,Economist,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224411,Intelligence Officer,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224412,Policy Analyst,-30,-30,-30,-30,-30,-30,-20,-30,Business
+224511,Land Economist,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224512,Valuer,-30,-30,-30,-30,-30,-30,-30,-30,Business
+224611,Librarian,-30,-20,-30,-30,-30,-30,-30,-30,Business
+224712,Organisation and Methods Analyst,-20,-30,-30,-30,-30,-30,-30,-30,Business
+224713,Management Consultant,-30,-30,-30,-30,-30,-30,20,-30,Business
+224714,Supply Chain Analyst,-30,-30,-30,-30,-30,-30,-20,-30,Business
+224911,Electorate Officer,-30,10,-30,-30,-30,-30,-30,-30,Business
+224912,Liaison Officer,11,11,11,11,-30,11,11,-30,Business
+224913,Migration Agent / Immigration Consultant,-30,10,-30,-30,-30,-30,-30,-30,Business
+224914,Patents Examiner,-30,10,-30,-30,-30,-30,-30,-30,Business
+225111,Advertising Specialist,-30,-20,-30,-30,-30,-30,-30,-30,Business
+225112,Market Research Analyst,-30,-30,11,-30,-30,-30,-30,-30,Business
+225113,Marketing Specialist,30,20,20,20,-30,20,30,30,Business
+225114,Content Creator (Marketing),-20,-30,-30,-30,-30,-30,-20,-30,Business
+225115,Digital Marketing Analyst,10,-30,-30,-30,-30,-30,-30,-30,Business
+225211,ICT Account Manager,-30,-30,-30,-30,-30,-30,-20,-30,Business
+225212,ICT Business Development Manager,-30,-30,-30,-30,-30,-30,-30,-30,Business
+225213,ICT Sales Representative,-30,-30,-30,-30,-30,-30,20,-30,Business
+225311,Public Relations Professional,-30,-30,-30,-30,-30,-30,-20,-30,Business
+225411,Sales Representative (Industrial Products),20,20,20,20,-20,20,20,30,Business
+225412,Sales Representative (Medical and Pharmaceutical Products),-30,-30,-30,-30,-30,-30,-30,-30,Business
+261111,ICT Business Analyst,-10,-20,-20,-20,-20,-20,30,-10,IT
+261112,Systems Analyst,20,20,20,20,20,20,20,30,IT
+261211,Multimedia Specialist,30,30,30,30,-10,30,30,30,IT
+261212,Web Developer,30,20,20,20,20,20,20,30,IT
+261311,Analyst Programmer,20,20,20,20,20,20,20,30,IT
+261312,Developer Programmer,30,30,30,30,30,30,30,30,IT
+261313,Software Engineer,30,30,30,30,30,30,30,30,IT
+261314,Software Tester,20,20,20,20,20,20,20,30,IT
+261315,Cyber Security Engineer,30,30,30,30,30,30,30,30,IT
+261316,Devops Engineer,30,30,30,30,30,30,30,30,IT
+261317,Penetration Tester,20,20,20,20,20,20,20,30,IT
+262111,Database Administrator,-10,-20,-20,-20,-20,-20,-20,-10,IT
+262113,Systems Administrator,-20,-30,-30,-30,-30,-30,-20,-30,IT
+262114,Cyber Governance Risk and Compliance Specialist,30,30,30,30,30,30,30,30,IT
+262115,Cyber Security Advice and Assessment Specialist,30,30,30,30,30,30,30,30,IT
+262116,Cyber Security Analyst,30,30,30,30,30,30,30,30,IT
+262117,Cyber Security Architect,30,30,30,30,30,30,30,30,IT
+262118,Cyber Security Operations Coordinator,30,30,30,30,30,30,30,30,IT
+263111,Computer Network and Systems Engineer,20,20,20,20,20,20,30,30,IT
+263112,Network Administrator,30,20,20,-20,-20,-20,-20,-10,IT
+263113,Network Analyst,20,20,-20,-20,-20,-20,-20,-10,IT
+263211,ICT Quality Assurance Engineer,20,20,20,20,20,20,20,30,IT
+263212,ICT Support Engineer,-30,-30,-30,-30,-30,-30,30,-30,IT
+263213,ICT Systems Test Engineer,20,20,20,20,20,20,20,30,IT
+263311,Telecommunications Engineer,10,-30,-30,-30,-30,-30,-30,-30,IT
+263312,Telecommunications Network Engineer,20,-30,-30,-30,-30,-30,-30,-30,IT
+241111,Early Childhood (Pre-primary School) Teacher,30,30,30,30,30,30,30,30,Education
+241213,Primary School Teacher,20,20,20,20,20,20,20,30,Education
+241311,Middle School Teacher / Intermediate School Teacher,10,10,10,10,10,-30,20,-30,Education
+241411,Secondary School Teacher,20,20,20,20,20,20,20,30,Education
+241511,Special Needs Teacher,20,20,20,20,20,20,20,30,Education
+241512,Teacher of the Hearing Impaired,20,20,20,20,20,20,20,30,Education
+241513,Teacher of the Sight Impaired,20,20,20,20,20,20,20,30,Education
+242111,University Lecturer,-30,-30,-30,-30,-30,-30,30,-30,Education
+242112,University Tutor,-30,-30,-30,-30,-30,-30,-30,-30,Education
+242211,Vocational Education Teacher / Polytechnic Teacher,20,20,20,20,20,20,30,30,Education
+249111,Education Adviser,-30,10,-30,-30,-30,-30,-20,-30,Education
+249112,Education Reviewer,-30,10,-30,-30,-30,-30,-30,-30,Education
+249211,Art Teacher (Private Tuition),-30,-30,-30,-30,-30,-30,-30,-30,Education
+249212,Dance Teacher (Private Tuition),-20,-30,-30,-30,-30,-30,-30,-30,Education
+249213,Drama Teacher (Private Tuition),-30,-30,-30,-30,-30,-30,-30,-30,Education
+249214,Music Teacher (Private Tuition),-30,-30,-30,-30,-30,-30,-30,-30,Education
+249311,Teacher of English to Speakers of Other Languages,-30,-30,-30,-30,-30,-30,-30,-30,Education
+312111,Architectural Draftsperson,20,-30,10,10,10,10,20,10,Engineering
+312112,Building Associate,-30,-30,-30,-30,-30,-30,20,-30,Engineering
+312113,Building Inspector,30,20,20,20,20,20,20,30,Engineering
+312114,Construction Estimator,20,20,31,20,20,30,20,30,Engineering
+312115,Plumbing Inspector,-30,-30,-30,-30,-30,-30,-30,-30,Engineering
+312116,Surveying or Spatial Science Technician,-30,-30,11,-30,-30,-30,-30,-30,Engineering
+312211,Civil Engineering Draftsperson,30,30,30,30,30,30,30,30,Engineering
+312212,Civil Engineering Technician,30,30,30,30,30,30,30,30,Engineering
+312311,Electrical Engineering Draftsperson,-20,-20,-20,-20,-20,-20,-20,-30,Engineering
+312312,Electrical Engineering Technician,-20,20,-20,-20,-20,-20,-20,-30,Engineering
+312411,Electronic Engineering Draftsperson,-30,-20,-30,-30,-20,-30,-30,-30,Engineering
+312412,Electronic Engineering Technician,-30,-20,-30,10,20,-30,-10,-30,Engineering
+312511,Mechanical Engineering Draftsperson,20,20,20,20,20,20,20,30,Engineering
+312512,Mechanical Engineering Technician,30,20,31,20,21,20,31,30,Engineering
+312611,Safety Inspector,-20,-30,-30,-30,-20,-30,-10,-30,Engineering
+312911,Maintenance Planner,-30,-20,-30,-30,-30,-30,10,-30,Engineering
+312912,Metallurgical or Materials Technician,10,20,20,10,20,10,10,-30,Engineering
+312913,Mine Deputy,20,20,10,10,10,10,10,-30,Engineering
+251111,Dietitian,-30,-30,11,-30,-30,-30,30,-30,Health
+251112,Nutritionist,-30,-30,-30,-30,-30,-30,-20,-30,Health
+251211,Medical Diagnostic Radiographer,20,20,20,20,20,20,30,30,Health
+251212,Medical Radiation Therapist,20,20,20,20,20,20,20,30,Health
+251213,Nuclear Medicine Technologist,10,10,10,10,10,-30,-30,-30,Health
+251214,Sonographer,30,30,30,30,30,30,30,30,Health
+251311,Environmental Health Officer,10,-30,21,11,11,11,31,-30,Health
+251312,Occupational Health and Safety Adviser,-30,-30,-30,-30,-30,-30,30,-10,Health
+251411,Optometrist,31,31,32,31,31,31,31,30,Health
+251412,Orthoptist,-19,-19,-19,21,31,-19,-19,-30,Health
+251511,Hospital Pharmacist,31,31,31,31,31,31,30,30,Health
+251512,Industrial Pharmacist,-30,-30,-30,-30,-30,-30,-30,-30,Health
+251513,Retail Pharmacist,31,31,31,31,31,31,30,30,Health
+251911,Health Promotion Officer,-30,-30,-30,-30,-30,-30,30,-30,Health
+251912,Orthotist or Prosthetist,20,20,20,20,20,20,30,30,Health
+252111,Chiropractor,-30,-30,-30,-30,10,-30,-10,-30,Health
+252112,Osteopath,-30,-30,-30,-30,20,-30,-30,-30,Health
+252211,Acupuncturist,-30,-30,-30,-30,-30,-30,-30,-30,Health
+252212,Homoeopath,-30,-30,-30,-30,-30,-30,-30,-30,Health
+252213,Naturopath,-30,-30,-30,-30,-30,-30,-30,-30,Health
+252214,Traditional Chinese Medicine Practitioner,-30,-30,-30,-30,-30,-30,-30,-30,Health
+252311,Dental Specialist,-30,-30,-30,-30,-30,-30,-30,-30,Health
+252312,Dentist,20,20,21,20,20,20,30,30,Health
+252411,Occupational Therapist,30,30,20,30,30,30,30,30,Health
+252511,Physiotherapist,30,30,30,30,30,30,30,30,Health
+252611,Podiatrist,30,30,30,30,30,30,30,30,Health
+252711,Audiologist,20,10,11,10,20,10,30,10,Health
+252712,Speech Pathologist / Speech Language Therapist,30,30,30,30,30,30,30,30,Health
+253111,General Practitioner,31,31,31,31,31,31,30,30,Health
+253112,Resident Medical Officer,31,31,31,31,31,31,30,30,Health
+253211,Anaesthetist,32,32,32,32,32,32,31,30,Health
+253311,Specialist Physician (General Medicine),20,20,20,20,20,20,30,30,Health
+253312,Cardiologist,32,31,31,31,31,31,30,30,Health
+253313,Clinical Haematologist,20,20,20,20,20,20,20,30,Health
+253314,Medical Oncologist,31,31,31,31,31,31,30,30,Health
+253315,Endocrinologist,20,20,20,20,20,20,20,30,Health
+253316,Gastroenterologist,21,20,20,20,20,20,20,30,Health
+253317,Intensive Care Specialist,20,20,20,20,20,20,20,30,Health
+253318,Neurologist,20,20,20,20,20,20,20,30,Health
+253321,Paediatrician,20,20,20,20,20,20,30,30,Health
+253322,Renal Medicine Specialist,20,20,20,20,20,20,20,30,Health
+253323,Rheumatologist,20,20,20,20,20,20,20,30,Health
+253324,Thoracic Medicine Specialist,20,20,20,20,20,20,20,30,Health
+253411,Psychiatrist,30,30,30,30,30,30,30,30,Health
+253511,Surgeon (General),31,31,31,31,31,31,30,30,Health
+253512,Cardiothoracic Surgeon,20,20,20,20,20,20,20,30,Health
+253513,Neurosurgeon,20,20,20,20,20,20,30,30,Health
+253514,Orthopaedic Surgeon,21,20,20,20,20,20,20,30,Health
+253515,Otorhinolaryngologist,20,20,20,20,20,20,20,30,Health
+253516,Paediatric Surgeon,20,20,20,20,20,20,20,30,Health
+253517,Plastic and Reconstructive Surgeon,20,20,20,20,20,20,30,30,Health
+253518,Urologist,20,20,20,20,20,20,20,30,Health
+253521,Vascular Surgeon,20,20,20,20,20,20,20,30,Health
+253911,Dermatologist,31,31,31,31,31,31,31,30,Health
+253912,Emergency Medicine Specialist,20,20,20,20,20,20,30,30,Health
+253913,Obstetrician and Gynaecologist,32,32,32,32,32,32,31,30,Health
+253914,Ophthalmologist,31,31,31,31,31,31,30,30,Health
+253915,Pathologist,30,30,30,30,30,30,30,30,Health
+253917,Diagnostic and Interventional Radiologist,32,32,32,32,32,32,30,30,Health
+253918,Radiation Oncologist,11,10,10,10,10,-30,-30,30,Health
+254111,Midwife,31,31,32,31,31,31,30,30,Health
+254211,Nurse Educator,10,10,10,10,10,10,30,10,Health
+254212,Nurse Researcher,20,20,20,20,20,20,20,30,Health
+254311,Nurse Manager,-30,-30,-30,-30,10,-30,-30,-30,Health
+254411,Nurse Practitioner,20,20,20,20,20,20,30,30,Health
+254412,Registered Nurse (Aged Care),20,20,20,20,20,20,30,30,Health
+254413,Registered Nurse (Child and Family Health),20,20,20,20,20,20,20,30,Health
+254414,Registered Nurse (Community Health),20,20,20,20,20,20,20,30,Health
+254415,Registered Nurse (Critical Care and Emergency),20,20,20,20,20,20,30,30,Health
+254416,Registered Nurse (Developmental Disability),20,20,20,20,20,20,30,30,Health
+254417,Registered Nurse (Disability and Rehabilitation),20,20,20,20,20,20,30,30,Health
+254418,Registered Nurse (Medical),20,20,20,20,20,20,30,30,Health
+254421,Registered Nurse (Medical Practice),20,20,20,20,20,20,30,30,Health
+254422,Registered Nurse (Mental Health),20,20,20,20,20,20,30,30,Health
+254423,Registered Nurse (Perioperative),20,20,20,20,20,20,30,30,Health
+254424,Registered Nurse (Surgical),20,20,20,20,20,20,30,30,Health
+254425,Registered Nurse (Paediatrics),20,20,20,20,20,20,30,30,Health

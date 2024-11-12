@@ -1,0 +1,61 @@
+{
+  "name": "easyresi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/hooks": "^2.4.2",
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^2.8.2",
+    "@chakra-ui/styled-system": "^2.12.0",
+    "@chakra-ui/theme": "^3.4.6",
+    "@chakra-ui/utils": "^2.2.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@popperjs/core": "^2.11.8",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@zag-js/focus-visible": "^0.75.0",
+    "aria-hidden": "^1.2.4",
+    "axios": "^1.7.7",
+    "cookie": "^0.7.1",
+    "express": "^4.21.0",
+    "framer-motion": "^11.5.4",
+    "nth-check": "^2.1.1",
+    "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-focus-lock": "^2.13.2",
+    "react-intersection-observer": "^9.13.1",
+    "react-remove-scroll": "^2.6.0",
+    "react-router-dom": "^6.26.2",
+    "react-scripts": "^5.0.1",
+    "resolve-url-loader": "^5.0.0",
+    "svgo": "^3.3.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

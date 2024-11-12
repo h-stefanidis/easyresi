@@ -1,0 +1,9 @@
+city_name,state,min_cost,max_cost
+Adelaide,SA,23868,73788
+Brisbane,QLD,24440,76596
+Canberra,ACT,40872,78104
+Darwin,NT,23556,74526
+Hobart,TAS,24596,73216
+Melbourne,VIC,26676,77428
+Perth,WA,24336,81774
+Sydney,NSW,29068,95836
